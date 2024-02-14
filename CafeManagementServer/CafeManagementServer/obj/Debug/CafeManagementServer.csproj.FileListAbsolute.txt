@@ -1,0 +1,51 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\CafeManagementServer.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\CafeManagementServer.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\CafeManagementServer.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Sopstvenik.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Plata.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Vraboteni.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.NovVraboten.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Buffers.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Memory.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Buffers.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Memory.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Project\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\CafeManagementServer.exe.config
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\CafeManagementServer.exe
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\CafeManagementServer.pdb
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Form1.resources
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.NovVraboten.resources
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Plata.resources
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Sopstvenik.resources
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.Vraboteni.resources
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.exe
+C:\Users\User\Documents\GitHub\Tim1S27\CafeManagementServer\CafeManagementServer\obj\Debug\CafeManagementServer.pdb

@@ -1,0 +1,9 @@
+korisnickoIme                  pass                 uloga
+-------------------------------------------------------------
+vladimir			vladimir  		sopstvenik
+hristijan                       hristijan               sopstvenik
+iljo				iljo			kelner
+kire				kire			kelner
+jovana				jovana			sanker
+kiko				kiko			menazder
+vlade				vlade			menadzer 
